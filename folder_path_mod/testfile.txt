@@ -1,0 +1,1 @@
+This is a test file for practising the use of the path module in node.js
